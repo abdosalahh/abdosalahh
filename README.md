@@ -4,5 +4,5 @@ I am Abdelrahman from Egypt, and I am currently studying computer science at ain
 ## Skills and Experience
 * Database
 * OOP and Data structure
-* c++,java and python basics
+* c++ ,java and python basics
 * Web development (html-css-javascript)
