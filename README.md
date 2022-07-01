@@ -6,8 +6,6 @@ I am Abdelrahman from Egypt, and I am currently studying computer science at ain
 * OOP and Data structure
 * C++ , Java and Python basics
 * Web development (html-css-javascript)
- 
- <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
