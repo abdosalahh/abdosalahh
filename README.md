@@ -6,8 +6,8 @@ I am Abdelrahman from Egypt, and I am currently studying computer science at ain
 * Database
 * OOP and Data structure
 * C++ ,C ,C#   ,Java ,Python and R basics
-* Web development (html-css-javascript Bootstrap)
-* Moblie Application (Flutter-Android)
+* Web development (html-css-javascript - Bootstrap)
+* Moblie Application (Android)
 * Ui/Ux Design
 
 <h3 align="left">Languages and Tools:</h3>
