@@ -25,4 +25,4 @@ A public transportation planning system that helps users in Egypt navigate effic
 <a href="https://instagram.com/abdosalahh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdosalahh_" height="30" width="40" /></a>
 </p>
 
-## 💡 *Always learning, growing, and building impactful solutions!*
+💡 *Always learning, growing, and building impactful solutions!*
