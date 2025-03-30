@@ -5,9 +5,7 @@
 I'm a passionate software engineer specializing in **process automation, BPM solutions, and backend development**. I thrive on designing scalable solutions that optimize business processes and enhance system efficiency.
 
 ## 🎓 Education
-- **Ain Shams University** (Sep 2020 – Jul 2024)
-- **Bachelor's Degree in Computer and Information Science**
-- **Major: Information Science**
+- **Bachelor's Degree in Computer Science Ain Shams University Information science department**
 - **GPA: Very Good**
 
 ## 🔥 Tech Stack
