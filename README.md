@@ -18,10 +18,17 @@ I'm a passionate software engineer specializing in **process automation, BPM sol
 A public transportation planning system that helps users in Egypt navigate efficiently based on cost, time, and transfers.
 - **Tech Used:** Flutter (Mobile), Java Spring Boot (Backend), React (Admin Panel), MySQL
 
-## 🌟 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Abdulrahman Salah's GitHub stats" />
-</p>
+## 💼 Work Experience
+- **BPM Solutions Engineer at Penta-b**  
+  - Designing and implementing **BPMN-based business process solutions** for government and enterprise clients.  
+  - Developing and optimizing **Camunda BPM** workflows to enhance process automation.
+  - Integrating **Java Spring Boot** back-end services with BPM platforms for seamless execution.
+  - Collaborating with cross-functional teams to improve system performance and efficiency.
+
+- **Back-End Developer**  
+  - Building scalable and secure **REST APIs** using **Spring Boot & PostgreSQL**.
+  - Implementing **workflow automation** and **process-driven applications**.
+  - Working with **Docker** and cloud-based deployments for efficient CI/CD pipelines.
 
 ## 💌 How to Reach Me
 <p align="left">
