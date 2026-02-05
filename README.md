@@ -6,15 +6,11 @@ Back-End Java Developer with **2 years of experience** in building **enterprise 
 I specialize in **process automation, REST API development, and database optimization**, with hands-on experience in **Agile environments** and **CI/CD pipelines**.  
 I enjoy turning complex business requirements into **scalable, maintainable backend systems**.
 
----
-
 ## 🎓 Education
 **Bachelor’s Degree in Computer Science**  
 Ain Shams University – Faculty of Computer & Information Science  
 Information Science Department  
 **GPA:** Very Good (2020 – 2024)
-
----
 
 ## 🧠 Technical Skills
 
@@ -24,7 +20,8 @@ Information Science Department
 
 ### 🔹 Backend 
 - Java Spring Boot
-- JPA / Hibernate
+- JPA / Hibernate , JDBC
+- Microservices
 - RESTful API Development
 - Camunda BPM Modeling
 
@@ -48,8 +45,6 @@ Information Science Department
 - Agile / Scrum
 - Unit Testing
 
----
-
 ## 💼 Professional Experience
 
 ### **BPM Solutions Engineer – Penta-b**  
@@ -61,16 +56,16 @@ Information Science Department
 - Optimizing **PostgreSQL schemas and queries** to improve system performance and reliability.
 - Working closely with cross-functional teams in **Agile/Scrum** environments.
 
----
+## 📌 Graduation Project
+### 🚊 [Metrobas](https://github.com/your-metrobas-link)
+A public transportation planning system that helps users in Egypt navigate efficiently based on cost, time, and transfers.
+- **Tech Used:** Flutter (Mobile), Java Spring Boot (Backend), React (Admin Panel), MySQL
 
-## 📫 Connect With Me
+## 💌 How to Reach Me
 <p align="left">
-<a href="https://linkedin.com/in/abdosalahh" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/abdosalahh_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/abdosalahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdosalahh" height="30" width="40" /></a>
+<a href="https://fb.com/aabdoosalahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdosalah" height="30" width="40" /></a>
+<a href="https://instagram.com/abdosalahh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdosalahh_" height="30" width="40" /></a>
 </p>
 
-💡 *Focused on building clean, scalable backend systems and automated business processes.*
+💡 *Always learning, growing, and building impactful solutions!*
